@@ -2,3 +2,4 @@
 Fix #1 added -- You can safely remove this line --
 Fix #2: Very important fix added -- You can safely remove this line --
 Nota añadida para practicar amend
+Nota: Este cambio se añadió desde GitHub.
